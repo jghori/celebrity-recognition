@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.9ab2d261.chunk.css",
-    "main.js": "/static/js/main.019004f2.chunk.js",
-    "main.js.map": "/static/js/main.019004f2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5e59705e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5e59705e.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.115808d2.chunk.js": "/static/js/2.115808d2.chunk.js",
-    "static/js/2.115808d2.chunk.js.map": "/static/js/2.115808d2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e5fbd39215721caf1a7e1ad974a345bf.js": "/precache-manifest.e5fbd39215721caf1a7e1ad974a345bf.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.9ab2d261.chunk.css.map": "/static/css/main.9ab2d261.chunk.css.map",
-    "static/js/2.115808d2.chunk.js.LICENSE": "/static/js/2.115808d2.chunk.js.LICENSE",
-    "static/media/brain.png": "/static/media/brain.10e6ab2d.png"
+    "main.css": "/celebrity-recognition/static/css/main.9ab2d261.chunk.css",
+    "main.js": "/celebrity-recognition/static/js/main.4a796e5b.chunk.js",
+    "main.js.map": "/celebrity-recognition/static/js/main.4a796e5b.chunk.js.map",
+    "runtime-main.js": "/celebrity-recognition/static/js/runtime-main.881b4bd3.js",
+    "runtime-main.js.map": "/celebrity-recognition/static/js/runtime-main.881b4bd3.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/celebrity-recognition/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.24a6f484.chunk.js": "/celebrity-recognition/static/js/2.24a6f484.chunk.js",
+    "static/js/2.24a6f484.chunk.js.map": "/celebrity-recognition/static/js/2.24a6f484.chunk.js.map",
+    "index.html": "/celebrity-recognition/index.html",
+    "precache-manifest.a1861cc5908fa045370c31a2c486dc32.js": "/celebrity-recognition/precache-manifest.a1861cc5908fa045370c31a2c486dc32.js",
+    "service-worker.js": "/celebrity-recognition/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/celebrity-recognition/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.9ab2d261.chunk.css.map": "/celebrity-recognition/static/css/main.9ab2d261.chunk.css.map",
+    "static/js/2.24a6f484.chunk.js.LICENSE": "/celebrity-recognition/static/js/2.24a6f484.chunk.js.LICENSE",
+    "static/media/brain.png": "/celebrity-recognition/static/media/brain.10e6ab2d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e59705e.js",
+    "static/js/runtime-main.881b4bd3.js",
     "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.115808d2.chunk.js",
+    "static/js/2.24a6f484.chunk.js",
     "static/css/main.9ab2d261.chunk.css",
-    "static/js/main.019004f2.chunk.js"
+    "static/js/main.4a796e5b.chunk.js"
   ]
 }
